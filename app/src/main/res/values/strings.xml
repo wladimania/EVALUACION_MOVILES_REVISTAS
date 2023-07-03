@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+    <string name="imgdescription">ImageResource</string>
+    <string name="txtmuestra">texto genérico</string>
+    <string name="listheader">REVISTA CIENCIA Y TECNOLOGÍA</string>
+    <string name="listheaderdescription">Artículos</string>
+    <string name="Evaluación_Frecuente" />
+    listheader
+</resources>
